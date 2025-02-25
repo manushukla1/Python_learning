@@ -1,7 +1,6 @@
 <h1> 🐍 Python learning </h1>
 <h2>📌 Overview</h2>
 <p>This repository collects my hands-on notes, exercises, and projects from my Python learning journey. I started with YouTube tutorials but later transitioned to learning from the book <b>"Python Crash Course"</b> by <b>Eric Matthes</b>. The journey has been exciting so far, and there is still much more to explore! 🔥</p>
-<h2>🚀 Getting Started</h2>
 <h3>🔧 Prerequisites</h3>
 <ul>
     <li>🐍 Python installed (Recommended: Python 3.x)</li>
