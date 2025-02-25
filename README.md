@@ -19,10 +19,4 @@
     <li>File Handling & Exception Handling</li>
 </ul>
 
-<h2>🏃 Running Python Scripts</h2>
-<ul>
-    <li>Navigate to the repository directory.</li>
-    <li>📜 Run a Python script using:</li>
-</ul>
-
 <h2>🎉 Happy Coding! 🚀</h2>
